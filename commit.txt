@@ -1,0 +1,11 @@
+commit eab513cdc5ead75fb936ac1da03af4bd2f4a0b32
+Author: Angel Moran <angel.javier01@gmail.com>
+Date:   Thu Sep 27 14:07:30 2018 -0500
+
+    estructura del html
+
+commit dd8ca67a650a080e25a1c27244cac0b0ffa19ebe
+Author: Angel Moran <angel.javier01@gmail.com>
+Date:   Thu Sep 27 14:00:45 2018 -0500
+
+    iniciando
