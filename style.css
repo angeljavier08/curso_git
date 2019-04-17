@@ -6,6 +6,11 @@ main{
 	background-color: blue;
 }
 
-h1, p{
+h1 {
 	color: red;
+}
+
+p {
+
+	color:black;
 }
