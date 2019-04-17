@@ -5,3 +5,7 @@ footer {
 main{
 	background-color: blue;
 }
+
+h1, p{
+	color: red;
+}
